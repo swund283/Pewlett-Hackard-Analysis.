@@ -96,10 +96,6 @@ into mentorship_eligibility
 from all_employee_info_scrubbed
 WHERE (birth_date BETWEEN '1965-01-01' AND '1965-12-31')
 
-select * from mentorship_eligibility
-
-
-
 
 
 
